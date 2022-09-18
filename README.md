@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@dewanshukaushik 
-dewanshukaushik
-/
-html.github.io
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-html.github.io/calculator.html
-@dewanshukaushik
-dewanshukaushik calculator
-Latest commit 4069201 12 minutes ago
- History
- 1 contributor
-141 lines (130 sloc)  4.1 KB
-
 <!DOCTYPE html>
 <html>
 
@@ -168,17 +139,3 @@ Latest commit 4069201 12 minutes ago
 </body>
 
 </html>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
