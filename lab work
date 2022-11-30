@@ -1,0 +1,16 @@
+<!Doctype html>
+<html>
+<head>
+<title>index.html</title>
+</head>
+<body>
+ <table border=1 width="1300px" height="650px">
+ <tr><td colspan="10" ><img src = "C:\Users\student\Downloads" width="0px" height="0px" ></td><tr>
+ <tr> <td colspan="2">About me</td><td colspan="6"rowspan="7"></td><td colspan=2 rowspan="11">image</td><tr>
+ <tr> <td colspan="2">skills</td><tr>
+ <tr> <td colspan="2">Language Known</td><tr>
+ <tr> <td colspan="2">hobbies</td><tr>
+ <tr> <td rowspan="4" colspan="2"> project Developed</td><tr>
+ <tr> <td> About Me</td><td> Skills</td><td> Language Known</td><td> Hobbies</td><tr>
+ </body>
+ </head>
