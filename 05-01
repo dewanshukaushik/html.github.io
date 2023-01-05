@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<title> Event</title>
+<head>
+	<style>
+
+		body {
+			margin: 0;
+			padding: 0;
+			background-size:cover;
+		}
+		
+       	.time {
+		float:right;
+		
+		}
+		.jan{
+		margin-left:100px;
+		
+		color:white;
+		}
+		.details{
+		float:right;
+		margin-top:100px;
+		margin-left:0px;
+
+		color:white;
+		}
+		.content{
+		float:left;
+		margin-right:100px;
+		color:white;
+		}
+		
+		
+		
+	</style>
+</head>
+
+<body background="https://alpaindia.org/images/events.jpg">
+	
+		
+			<div class="content">
+				<h1>
+					IDEATHON 2k23
+				</h1>
+				
+<p>
+					Hope you all are safe and healthy!!
+					THe Department of computer application is going to organize
+					
+				</p
+
+			</div>
+		
+
+		
+
+			
+					<div class="time">
+					
+							14 <br><span>jan</span>
+						</h2>
+					</div>
+					
+						<h3>
+							Where is the ideathron happening?
+						</h3>
+						
+<p>
+							With the idea of imparting programming
+							knowledge
+						</p>
+
+					
+					
+
+						
+					</div>
+					
+					
+			
+		</div>
+
+</body>
+
+</html>
